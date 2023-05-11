@@ -9,6 +9,7 @@ Just  a collection of scripts and customizations done to my machine.
     - SDDM
 - Terminal
     - Kitty
+    - Bash
 
 ## Customization Packages
 - Tdrop
