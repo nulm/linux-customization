@@ -4,13 +4,14 @@ Just  a collection of scripts and customizations done to my machine.
 - OS
     - Arch
 - DE
-    - KDE
+    - Gnome
+    - Hyprland
 - DM
-    - SDDM
+    - GDM
 - Terminal
     - Kitty
     - Bash
 
 ## Customization Packages
-- Tdrop
-    - Used for a drop down terminal. 
+- Notification
+    - Mako
