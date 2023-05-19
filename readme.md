@@ -4,13 +4,13 @@ Just  a collection of scripts and customizations done to my machine.
 - OS
     - Arch
 - DE
-    - Gnome - Wayland
-    - Hyprland (Currently not in use) - Wayland
+    - Gnome - Wayland - Backup Desktop Environment
+    - Hyprland - Wayland
 - DM
     - GDM
 - Terminal
     - Kitty
-    - Bash
+    - Bash (Probably should use ZSH)
 
 ## Customization Packages
 - HyperLand Customizations
