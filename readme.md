@@ -6,11 +6,13 @@ Just  a collection of scripts and customizations done to my machine.
 - DE
     - Gnome - Wayland - Backup Desktop Environment
     - Hyprland - Wayland
+        - Config: hyprconf
 - DM
     - GDM
 - Terminal
     - Kitty
     - Bash (Probably should use ZSH)
+        - Config: bashconf
 
 ## Customization Packages
 - HyperLand Customizations
@@ -18,6 +20,13 @@ Just  a collection of scripts and customizations done to my machine.
         - Mako
     - Status Bar
         - Waybar
+            - Config: waybarconf
+    - Wallpapers
+        - Hyprpaper
+            - Config: hyprpaper
+    - Application Launcher
+        - Rofi (Wayland Fork)
+            - Config: roficonf
 
 - Gnome Customizations
     - Extensions
