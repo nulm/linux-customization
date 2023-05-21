@@ -22,8 +22,8 @@ Just  a collection of scripts and customizations done to my machine.
         - Waybar
             - Config: waybarconf
     - Wallpapers
-        - Hyprpaper
-            - Config: hyprpaper
+        - Wpaperd
+            - Config: wpaperdconf
     - Application Launcher
         - Rofi (Wayland Fork)
             - Config: roficonf
