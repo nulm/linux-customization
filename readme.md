@@ -27,6 +27,9 @@ Just  a collection of scripts and customizations done to my machine.
     - Application Launcher
         - Rofi (Wayland Fork)
             - Config: roficonf
+    - Display Manager
+        - SDDM
+            - Config: sddmconf
 
 - Gnome Customizations
     - Extensions
