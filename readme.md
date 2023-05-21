@@ -22,7 +22,7 @@ Just  a collection of scripts and customizations done to my machine.
         - Waybar
             - Config: waybarconf
     - Wallpapers
-        - Wpaperd
+        - [Wpaperd](https://github.com/danyspin97/wpaperd)
             - Config: wpaperdconf
     - Application Launcher
         - Rofi (Wayland Fork)
@@ -32,6 +32,9 @@ Just  a collection of scripts and customizations done to my machine.
         - SDDM
             - Config: sddmconf
             - Theme: [Aerial Theme](https://github.com/3ximus/aerial-sddm-theme)
+    - QT5 & QT6 Theme
+        - [Inverse-dark Kvantum](https://store.kde.org/p/1365482)
+        - Use Kvanturm to load them and QT5CT/QT6CT to set theme. 
 
 - Gnome Customizations
     - Extensions
