@@ -16,6 +16,19 @@ PS1='[\u@\h \W]\$ '
 #Open Bash config
 alias bashconf="sudo nano ~/.bashrc"
 
+#Open Hypr Config
+alias hyprconf="sudo nano /home/nulm/.config/hypr/hyprland.conf"
+
+#Open waybar Confiig
+alias waybarconf="sudo nano ~/.config/waybar/config"
+
+#Open wpaper Config 
+alias wpaperdconf="sudo nano /home/nulm/.config/wpaperd/wallpaper.toml"
+
+#Open SDDM Config
+alias sddmconf="sudo nano /usr/lib/sddm/sddm.conf.d/default.conf"
+
+
 
 #Collection of easy to run commands
 #Print my IP

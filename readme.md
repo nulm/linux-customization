@@ -27,9 +27,11 @@ Just  a collection of scripts and customizations done to my machine.
     - Application Launcher
         - Rofi (Wayland Fork)
             - Config: roficonf
+            - Theme: [Rofi Theme](https://github.com/adi1090x/rofi)
     - Display Manager
         - SDDM
             - Config: sddmconf
+            - Theme: [Aerial Theme](https://github.com/3ximus/aerial-sddm-theme)
 
 - Gnome Customizations
     - Extensions
