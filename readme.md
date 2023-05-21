@@ -16,9 +16,9 @@ Just  a collection of scripts and customizations done to my machine.
 
 ## Customization
 
+<img src="Screenshots/20230521_00h34m54s_grim.png" title="General Hyprland Overview">
 
 - HyperLand Customizations
-<img src="Screenshots/20230521_00h34m54s_grim.png" title="General Hyprland Overview">
     - Notification
         - Mako
     - Status Bar
