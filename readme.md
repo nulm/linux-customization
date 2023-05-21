@@ -19,11 +19,13 @@ Just  a collection of scripts and customizations done to my machine.
     - Notification
         - Mako
     - Status Bar
-        - Waybar
+        - [Waybar](https://github.com/Alexays/Waybar)
             - Config: waybarconf
     - Wallpapers
         - [Wpaperd](https://github.com/danyspin97/wpaperd)
             - Config: wpaperdconf
+    
+    <img src="Screenshots/20230521_00h34m31s_grim.png" tilte="Application Launcher Preview">
     - Application Launcher
         - Rofi (Wayland Fork)
             - Config: roficonf
@@ -35,6 +37,10 @@ Just  a collection of scripts and customizations done to my machine.
     - QT5 & QT6 Theme
         - [Inverse-dark Kvantum](https://store.kde.org/p/1365482)
         - Use Kvanturm to load them and QT5CT/QT6CT to set theme. 
+    - Screenshots
+        - Grim and Slurp
+    
+
 
 - Gnome Customizations
     - Extensions
