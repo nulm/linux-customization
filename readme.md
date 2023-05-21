@@ -17,6 +17,7 @@ Just  a collection of scripts and customizations done to my machine.
 ## Customization
 
 <img src="Screenshots/20230521_00h34m54s_grim.png" title="General Hyprland Overview">
+<img src="Screenshots/20230521_00h34m31s_grim.png" tilte="Application Launcher Preview">
 
 - HyperLand Customizations
     - Notification
@@ -27,7 +28,6 @@ Just  a collection of scripts and customizations done to my machine.
     - Wallpapers
         - [Wpaperd](https://github.com/danyspin97/wpaperd)
             - Config: wpaperdconf
-    <img src="Screenshots/20230521_00h34m31s_grim.png" tilte="Application Launcher Preview">
     - Application Launcher
         - Rofi (Wayland Fork)
             - Config: roficonf
