@@ -14,8 +14,11 @@ Just  a collection of scripts and customizations done to my machine.
     - Bash (Probably should use ZSH)
         - Config: bashconf
 
-## Customization Packages
+## Customization
+
+
 - HyperLand Customizations
+<img src="Screenshots/20230521_00h34m54s_grim.png" title="General Hyprland Overview">
     - Notification
         - Mako
     - Status Bar
