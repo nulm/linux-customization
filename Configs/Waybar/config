@@ -10,7 +10,7 @@
     // Choose the order of the modules
     "modules-left": ["wlr/workspaces"],
     "modules-center": ["sway/window","clock"],
-    "modules-right": ["tray"], //None on right currently
+    "modules-right": ["wireplumber","tray"],
     // Modules configuration
     // "wlr/workspaces": {
     //     "disable-scroll": true,
@@ -37,5 +37,9 @@
 	"spacing": 10,
 	"show-passive-items": true,
 	},
+    "wireplumber": {
+	"format": "{volume}",
+	},
 }
+
 
