@@ -22,6 +22,7 @@ Just  a collection of scripts and customizations done to my machine.
 - HyperLand Customizations
     - Notification
         - Mako
+        - Test Notifications with: notify-send "Message"
     - Status Bar
         - [Waybar](https://github.com/Alexays/Waybar)
             - Config: waybarconf
