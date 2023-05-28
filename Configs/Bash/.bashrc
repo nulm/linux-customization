@@ -1,7 +1,7 @@
 #
 # ~/.bashrc
 #
-# Probably should use ZSH
+
 # If not running interactively, don't do anything
 [[ $- != *i* ]] && return
 
@@ -28,6 +28,8 @@ alias wpaperdconf="sudo nano /home/nulm/.config/wpaperd/wallpaper.toml"
 #Open SDDM Config
 alias sddmconf="sudo nano /usr/lib/sddm/sddm.conf.d/default.conf"
 
+#Open Kitty Config
+alias kittyconf="sudo nano /home/nulm/.config/kitty/kitty.conf"
 
 
 #Collection of easy to run commands
