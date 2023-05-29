@@ -42,6 +42,9 @@ Just  a collection of scripts and customizations done to my machine.
         - Use Kvanturm to load them and QT5CT/QT6CT to set theme. 
     - Screenshots
         - Grim and Slurp
+    - Screenlock
+        - Swaylock
+            - Using the swaylock effects fork.
     
 
 
